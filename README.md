@@ -16,7 +16,7 @@ Riding-level Monte Carlo projections for all 343 Canadian federal ridings, with 
 
 **Python / NumPy / pandas / Plotly Dash / pytest**
 
-### UniPath
+### [UniPath](https://github.com/aminbhv/unipath-showcase)
 
 Co-founder and full-stack engineer on a pre-launch education agency management platform for Admin, Mentor, Teacher and Student roles. Built collaboratively; the application source remains private.
 
